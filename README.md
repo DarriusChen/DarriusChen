@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyc926)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/DarriusChen)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](darriuschen0926@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:darriuschen0926@gmail.com)
 
 A Software and Data Engineer with a passion for leveraging technology to solve complex problems. Proven experience in data processing, analysis, and full-stack development, with a strong foundation in both software engineering and data science.
 
