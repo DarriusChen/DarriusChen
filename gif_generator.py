@@ -3,14 +3,15 @@ import emoji
 
 # 定義要展示的文字（包含多行）
 text = ("Hi there 👋\n"
-        "I'm Darrius, a software engineer passionate about AI & Cybersecurity.\n"
+        "I'm Darrius, a software engineer\n"
+        "passionate about AI & Cybersecurity.\n"
         "Welcome to my GitHub!")
 
 # 使用 FiraCode 字體
 try:
     base_font = ImageFont.truetype(
         "./asset/Fira_Code/static/FiraCode-Medium.ttf", 
-        size=24,
+        size=32,
     )
 except IOError:
     base_font = ImageFont.load_default()
@@ -23,7 +24,7 @@ except IOError:
 
 # 設定一些畫布配置參數
 padding = 20      # 圖片邊界空白
-line_spacing = 5  # 行間距
+line_spacing = 7  # 行間距
 
 def is_emoji(char):
     """檢查字符是否為 emoji"""
@@ -125,7 +126,7 @@ durations = [100] * len(frames)  # 每幀 100ms
 durations[-1] = 2000            # 最後一幀停留 2 秒
 
 # 儲存成 GIF 文件
-gif_filename = "./asset/typing_animation.gif"
+gif_filename = "./asset/helloworld_animation.gif"
 frames[0].save(
     gif_filename,
     save_all=True,
