@@ -8,11 +8,37 @@ Software & Data Engineer building AI, data, and web systems for cybersecurity, a
 
 I enjoy turning messy real-world problems into tools that are useful, reliable, and easy to understand. My work sits around the intersection of data engineering, machine learning, backend systems, and product-minded problem solving.
 
-## What I'm Working On
+## Featured Projects
 
-- Studying system design patterns for building scalable, reliable backend and data systems.
-- Exploring AI agent workflows for automating research, analysis, and developer productivity.
-- Exploring how LLMs, retrieval systems, and structured data pipelines can support domain experts.
+### MalwareMind
+CNN-based malware detection platform that transforms executable files into image-based representations for classification.
+
+Tech: TensorFlow · FastAPI · Next.js · Vercel
+
+> [→ Repository](https://github.com/DarriusChen/MalwareMind) <br>
+> [→ Live Demo](https://malwaremind.vercel.app)
+
+
+### PQ-SAT
+Cryptographic inventory and analytics platform for SSL/TLS traffic analysis, cryptographic asset discovery, compliance assessment, and reporting.
+
+Tech: Python · Zeek · OpenSearch · PostgreSQL · Docker · Next.js
+
+> [→ Case Study](https://darriuschen.com/work/pq-sat)
+
+
+### Compliance Intelligence Platform
+Backend tools and framework mapping systems for cybersecurity compliance intelligence and regulatory cross-referencing.
+
+Tech: FastAPI · GraphQL · PostgreSQL · LLMs
+
+> [→ Project Overview](https://darriuschen.com/work/compliance-intelligence)
+
+## Currently
+
+- Building portfolio projects around AI, cybersecurity, and data-intensive applications.
+- Improving my system design and backend architecture skills through practical project work.
+- Experimenting with AI agent workflows for research, analysis, and developer productivity.
 
 ## Tech I Use
 
@@ -37,15 +63,14 @@ I enjoy turning messy real-world problems into tools that are useful, reliable, 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## Experience
+## Experience Highlights
 
-**Software & Data Engineer**  
-Institute for Information Industry, Taipei | 2021 - 2026
+**Software & Data Engineer — Institute for Information Industry**  
+Taipei, Taiwan · 2021–2026
 
-- Built AI and data systems for cybersecurity-related use cases.
-- Developed PQ-SAT, a PCAP-based SSL/TLS analysis tool that inventories cryptographic configurations and generates security reports.
-- Designed tools for analysis, automation, and internal decision support.
-- Worked across data processing, backend development, model integration, and product workflows.
+- Developed **PQ-SAT**, a cryptographic inventory and analytics platform for SSL/TLS traffic analysis, risk assessment, and reporting.
+- Built **MalwareMind**, a CNN-based malware detection platform that converts executable files into image representations for classification.
+- Designed backend tools and data workflows for cybersecurity compliance mapping, regulatory cross-referencing, and internal decision support.
 
 
 ## Education
