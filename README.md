@@ -5,41 +5,59 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/DarriusChen)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:darriuschen0926@gmail.com)
 
-Software & Data Engineer building AI, data, and web systems for cybersecurity, automation, and decision support.
+## Hi, I'm Darrius 👋
 
-I enjoy turning messy real-world problems into tools that are useful, reliable, and easy to understand. My work sits around the intersection of data engineering, machine learning, backend systems, and product-minded problem solving.
+A Software & Data Engineer focused on data and AI systems and cybersecurity.
+
+I turn complex, real-world problems into reliable tools that help people understand data and make informed decisions.
 
 ## Featured Projects
 
 ### MalwareMind
-CNN-based malware detection platform that transforms executable files into image-based representations for classification.
+*Rebuilt from an intern project I led at work.*
 
-Tech: TensorFlow · FastAPI · Next.js · Vercel
+An interactive AI security demo that converts executable files into grayscale images for CNN-based malware family classification.
+
+- **My contribution:** Led interns through the original project, then reworked the implementation and web interface for the public demo.
+- **Result:** Achieved **95%+ classification accuracy on the project's prepared malware image dataset**, with a web demo for file upload and prediction results.
+
+Tech: Python · TensorFlow · FastAPI · Vue.js · Vercel
 
 > [→ Repository](https://github.com/DarriusChen/MalwareMind) <br>
 > [→ Live Demo](https://malware-mind.vercel.app)
 
 
 ### PQ-SAT
-Cryptographic inventory and analytics platform for SSL/TLS traffic analysis, cryptographic asset discovery, compliance assessment, and reporting.
+*Work project at the Institute for Information Industry · Source code is not public.*
 
-Tech: Python · Zeek · OpenSearch · PostgreSQL · Docker · Next.js
+A TLS analytics platform that helps security teams inventory cryptographic usage and plan for post-quantum migration.
+
+- **My contribution:** Owned backend and data engineering, including TLS ingestion, cryptographic enrichment, risk assessment, and automated readiness reports.
+- **Result:** Analyzed **8M+ TLS records**, mapped **348 cipher suites**, and generated cryptographic bills of materials (CBOMs) and readiness reports to support audits and post-quantum migration planning.
+
+Tech: Python · Polars · DuckDB · PostgreSQL · Zeek · Docker · Next.js
 
 > [→ Case Study](https://darriuschen.com/work/pq-sat)
 
 
-### Compliance Intelligence Platform
-Backend tools and framework mapping systems for cybersecurity compliance intelligence and regulatory cross-referencing.
+### Synapse
+*Independently designed and built · Deployed V1.*
 
-Tech: FastAPI · GraphQL · PostgreSQL · LLMs
+A collaborative learning map that helps AI study groups explore topics, understand prerequisites, and find shared resources.
 
-> [→ Project Overview](https://darriuschen.com/work/compliance-intelligence)
+- **My contribution:** Designed and built the application from product specification to deployment, including the topic and relationship data model, interactive graph, and protected admin workflows.
+- **Result:** Shipped a public learning map with **14 seeded AI topics**, prerequisite and related-topic links, searchable topic pages, and tools for organizers to maintain the curriculum.
 
-## Currently
+Tech: Next.js · React · TypeScript · Supabase · PostgreSQL · React Flow
 
-- Building portfolio projects around AI, cybersecurity, and data-intensive applications.
-- Improving my system design and backend architecture skills through practical project work.
-- Experimenting with AI agent workflows for research, analysis, and developer productivity.
+> [→ Repository](https://github.com/DarriusChen/synapse-web) <br>
+> [→ Live Demo](https://synapse-learning-map.vercel.app/)
+
+## Interests
+
+- Building tools that address everyday development friction, turning recurring problems into simpler workflows.
+- Building learning and knowledge tools that make connections between concepts easier to explore.
+- Exploring AI-assisted development with clear specifications, focused tests, and reviewable changes.
 
 ## Tech I Use
 
@@ -64,26 +82,19 @@ Tech: FastAPI · GraphQL · PostgreSQL · LLMs
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## Experience Highlights
+## Experience
 
 **Software & Data Engineer — Institute for Information Industry**  
 Taipei, Taiwan · 2021–2026
 
-- Developed **PQ-SAT**, a cryptographic inventory and analytics platform for SSL/TLS traffic analysis, risk assessment, and reporting.
-- Built **MalwareMind**, a CNN-based malware detection platform that converts executable files into image representations for classification.
-- Designed backend tools and data workflows for cybersecurity compliance mapping, regulatory cross-referencing, and internal decision support.
+Developed backend systems and data workflows for cybersecurity analysis, compliance mapping, and internal decision support.
 
 
 ## Education
 
-**National Taiwan University of Science and Technology**  
-Bachelor's in Industrial Management, with interests in computer science, finance, and operations research.
-
-**RWTH Aachen University**  
-Exchange student in Business & Economics.
-
-**TU Berlin Winter University**  
-Data Science with Python.
+- **National Taiwan University of Science and Technology** — Bachelor's in Industrial Management, with minors in Computer Science and Finance.
+- **RWTH Aachen University** — Exchange student in Business & Economics.
+- **TU Berlin Winter University** — Data Science with Python.
 
 
 ## Beyond Code
