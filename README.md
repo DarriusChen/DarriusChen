@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-darriuschen.com-4A90E2?style=flat-square&logo=googlechrome&logoColor=white)](https://darriuschen.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyc926)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/DarriusChen)
+[![Threads](https://img.shields.io/badge/Threads-black?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@darrius.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:darriuschen0926@gmail.com)
 
 ## Hi, I'm Darrius 👋
